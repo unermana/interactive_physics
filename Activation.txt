@@ -1,0 +1,9 @@
+Copy SP32W.dll to
+C:\Program Files (x86)\InteractivePhysics2005\Program
+
+
+About >> Licence
+
+Name:
+TGZ07559
+
